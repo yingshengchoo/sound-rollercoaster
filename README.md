@@ -1,2 +1,2 @@
 # sound-rollercoaster
-This is a fun and cool visualization I made using p5! Make sure you engage audio to play with my visualization.
+This is a fun and cool visualization I made using p5! Make sure you enable your mircophone to play with my visualization.
